@@ -15,8 +15,7 @@ Adept in data visualization, software testing, and delivering efficient, user-ce
 - 👨‍💻 Portfolio: **https://emmanuelmose.vercel.app**  
 - 💬 Ask me about **MERN Stack, Django, PostgreSQL, UI/UX**  
 - 📫 Reach me at **emmanuelmose10204@gmail.com**  
-- 📄 My Resume:  
-  **https://drive.google.com/drive/u/0/home**
+  
 
 ---
 

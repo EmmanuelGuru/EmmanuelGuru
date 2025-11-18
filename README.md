@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Mose</h1>
+<h1 align="right">Hi 👋, I'm Emmanuel Mose</h1>
 
-<h3 align="center">
+<h3 align="right">
 Innovative and results-driven Software Developer with strong experience in full-stack web development, data analysis, and UI/UX design.  
 Passionate about building scalable applications and intuitive user experiences.  
 Skilled in React.js, Node.js, Django, Express.js, and cloud technologies.  
